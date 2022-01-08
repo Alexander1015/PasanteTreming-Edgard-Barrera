@@ -1,2 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_server\odoo\addons\pasante_treming-edgard-barrera_server\odoo\addons\pasante_treming-edgard-barrera,server\odoo\addons\pasante_treming-edgard-barrera.server\odoo\addons\pasante_treming-edgard-barrera,model_server\odoo\addons\pasante_treming-edgard-barrera_server\odoo\addons\pasante_treming-edgard-barrera,base.group_user,1,1,1,1
+access_treming_sucursales,pasante_treming-edgard-barrera.treming_sucursales,model_treming_sucursales,base.group_user,1,1,1,1
