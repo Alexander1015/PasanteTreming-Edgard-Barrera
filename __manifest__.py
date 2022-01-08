@@ -12,12 +12,13 @@
     
     'author': "Alexander Barrera",
     'website': "http://www.treming.com",
-    'category': 'Administration',
+    'category': 'Sales',
     'version': '0.1',
-    'depends': ['contacts'],
+    'depends': ['contacts', 'sale'],
     'data': [
         'security/ir.model.access.csv',
         'views/treming_contacts_views.xml',
         'views/treming_sucursales_views.xml',
+        'views/treming_sales_views.xml',
     ],
 }
